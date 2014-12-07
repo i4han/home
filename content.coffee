@@ -4,7 +4,7 @@ module.exports.content =
         router: path: '/'
         jade: """
             .row
-                h1 Good Title
+                h1 Any Title
             .row#items
                 each items
                     .item
